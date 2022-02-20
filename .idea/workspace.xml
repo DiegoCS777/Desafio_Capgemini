@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9c4eaadb-a229-4727-a85b-f4f1e3eb89cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/diego/password/PasswordValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/diego/password/PasswordValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/diego/StairTest/StairTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/diego/stairTest/StairTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/diego/StairTest/StairTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +37,50 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.PasswordValidationTest.Test">
+    <configuration name="PasswordValidationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Desafio-Capgemini" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diego.passwordTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.diego.passwordTest" />
+      <option name="MAIN_CLASS_NAME" value="com.diego.passwordTest.PasswordValidationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordValidationTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Desafio-Capgemini" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.diego.passwordTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.diego.passwordTest" />
+      <option name="MAIN_CLASS_NAME" value="com.diego.passwordTest.PasswordValidationTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StairTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Desafio-Capgemini" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.diego.StairTest.*" />
+          <option name="PATTERN" value="com.diego.stairTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.diego.StairTest" />
-      <option name="MAIN_CLASS_NAME" value="com.diego.StairTest.StairTest" />
+      <option name="MAIN_CLASS_NAME" value="com.diego.stairTest.StairTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,6 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PasswordValidationTest.Test" />
+        <item itemvalue="JUnit.PasswordValidationTest" />
         <item itemvalue="JUnit.StairTest" />
       </list>
     </recent_temporary>
@@ -67,5 +104,16 @@
       <updated>1645396158794</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

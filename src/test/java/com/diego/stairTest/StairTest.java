@@ -1,4 +1,4 @@
-package com.diego.StairTest;
+package com.diego.stairTest;
 
 import com.diego.stair.Stair;
 import org.junit.jupiter.api.*;
